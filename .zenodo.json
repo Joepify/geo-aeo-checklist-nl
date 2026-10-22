@@ -1,0 +1,26 @@
+{
+  "title": "GEO/AEO-checklist: gevonden worden in ChatGPT, Copilot en Google AI-overzichten",
+  "upload_type": "publication",
+  "description": "Dutch checklist for generative engine optimization and answer engine optimization, with official sources. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "GEO",
+    "AEO",
+    "SEO",
+    "ChatGPT"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.joepify.nl",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ],
+  "publication_type": "other"
+}
