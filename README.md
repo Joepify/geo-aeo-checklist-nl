@@ -1,6 +1,10 @@
 # GEO/AEO-checklist: gevonden worden in ChatGPT, Copilot en Google AI-overzichten
 
-Praktische checklist (Nederlands) om je website vindbaar en citeerbaar te maken voor AI-zoekmachines. Gebaseerd op officiële documentatie en wat we zelf op [joepify.nl](https://www.joepify.nl) hebben toegepast. Laatst gecontroleerd: 22 oktober 2026.
+Praktische checklist om je website vindbaar en citeerbaar te maken voor AI-zoekmachines. Gebaseerd op officiële documentatie en op wat we zelf op de site van [Joepify](https://www.joepify.nl?utm_source=github&utm_medium=readme&utm_campaign=geo-aeo-checklist-nl) hebben toegepast. Laatst gecontroleerd: 22 oktober 2026.
+
+**Voor wie:** ondernemers, marketeers en webbouwers die willen dat hun bedrijf genoemd wordt in ChatGPT, Copilot, Perplexity en Google AI-overzichten.
+
+**Hoe te gebruiken:** loop de zeven onderdelen af en vink af wat klopt. Begin bij onderdeel 1, want zonder toegang voor de crawlers helpt de rest niet. Het meetbare resultaat van dit werk staat in [geo-case-joepify](https://github.com/Joepify/geo-case-joepify).
 
 > Niemand kan een vermelding in ChatGPT of AI-overzichten garanderen. Deze checklist haalt de technische en inhoudelijke drempels weg.
 
@@ -39,6 +43,14 @@ Praktische checklist (Nederlands) om je website vindbaar en citeerbaar te maken 
 ## 7. Merk buiten je site
 - [ ] Reviews (Google Bedrijfsprofiel en minstens één ander platform), vermeldingen in vakmedia, profielen op platforms die AI-antwoorden citeren (bijv. Sortlist, Trustoo, Clutch, LinkedIn).
 
-Uitgebreide uitleg: https://www.joepify.nl/gevonden-worden-in-chatgpt · Gratis check: https://www.joepify.nl/website-apk
+## Laat het mij doen
 
-Licentie: CC BY 4.0. Gemaakt door [Joepify](https://www.joepify.nl), Rotterdam.
+Ik pas deze checklist toe op je site, zodat AI-zoekmachines je kunnen vinden en citeren. Vaste prijs: €495 eenmalig voor de setup, daarna €249 per maand (excl. btw). [Controleer eerst je site](https://www.joepify.nl/website-apk?utm_source=github&utm_medium=readme&utm_campaign=geo-aeo-checklist-nl) of [stuur een WhatsApp-bericht](https://wa.me/31687195043?text=Hoi%20Ayoub%2C%20ik%20kom%20via%20GitHub%20%28geo-aeo-checklist-nl%29%20en%20wil%20hulp%20met%20ai%20vindbaarheid.).
+
+## Over Joepify
+
+[Joepify](https://www.joepify.nl?utm_source=github&utm_medium=readme&utm_campaign=geo-aeo-checklist-nl) is een webbureau aan de Metaalhof 27 in Rotterdam. Ayoub Assaidi bouwt websites en webshops en past deze checklist zelf toe. Een eerste indruk van je eigen site krijg je met de gratis [website check](https://www.joepify.nl/website-apk?utm_source=github&utm_medium=readme&utm_campaign=geo-aeo-checklist-nl).
+
+## Licentie
+
+CC BY 4.0.
